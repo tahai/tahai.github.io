@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 1050%;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	float: left;
+}
+
+li a {
+	text-decoration: none; 
+	color: blue;
+	display: block;
+	padding: 0px 20px;
+	font-size: 150%
+}
+
+ul.navlist {
+	position: 50%;
+	height: 40px;
+	width: 631px;
+}
+
+div.content {
+	top:50%;
+    left:50%;
+	width: 1100px;
+	height: 619px;
+	box-shadow: 0px 0px 5px #888888;
+
+}
+
+.center {
+    margin: auto;
+}
